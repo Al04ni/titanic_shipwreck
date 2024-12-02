@@ -38,10 +38,10 @@ Key components of this project include:
 
 <!--Getting Started Section--> 
 ## Getting Started 🚀
-### Prerequisites 📋
+### Prerequisites
 You must have Python installed on your machine in order to use this project. Python may be downloaded from [this page](https://www.python.org/downloads/) if you don't already have it installed.
 
-### Installation 📋
+### Installation
 
 1. Clone the repository to your local machine
 ```
