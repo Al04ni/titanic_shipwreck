@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h3 align="center"> Project|Titanic Survival Prediction</h3>
+  <h3 align="center"> Titanic Survival Prediction</h3>
 <p align="center"> Welcome to the Titanic Classification project repository! This project aims to predict whether a passenger on the Titanic survived or not based on various features such as age, gender, class, and more.</p>
 </div>
 
@@ -11,7 +11,7 @@
 ## About the Project 💻
 </br>
 
-[![Titanic_Classification_Product_Screenshot](assets/titanic-home-screenshot.jpg)](assets/titanic1.jpeg)
+[![Titanic_Survival_Prediction](assets/image.jpg)](assets/image.jpg)
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history. On April 15, 1912, the Titanic sank after hitting an iceberg, resulting in the deaths of over 1,500 passengers and crew. This project attempts to predict whether a given passenger survived or not using machine learning algorithms. 
 
@@ -69,12 +69,10 @@ jupyter lab
 streamlit run app.py
 ```
 
-2. Access the application in your web browser, input iris flower measurements, and receive predictions on the species.
+2. Access the application in your web browser.
 
-<p align="center">(<a href="https://streamlit.io/">The Link</a>)</p>
----
 
-<p align="right">(<a href="#readme-top">Top</a>)</p>
+<p align="right">(<a href="#readme-top">Back to the Top</a>)</p>
 
 ### Thanks! 😉
 <hr/>
