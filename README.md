@@ -11,7 +11,9 @@
 ## About the Project 💻
 </br>
 
-<img src="./assets/image.png" alt="Titanic_wallpaper_from_movie" width="50%" height="50%">
+<div style="text-align: center;">
+    <img src="./assets/image.png" alt="Titanic wallpaper from movie" style="width: 50%; height: 50%;">
+</div>
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history. On April 15, 1912, the Titanic sank after hitting an iceberg, resulting in the deaths of over 1,500 passengers and crew. This project attempts to predict whether a given passenger survived or not using machine learning algorithms. 
 
