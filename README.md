@@ -1,7 +1,4 @@
-<!-- To Bring back the link to the top--> 
-<a name="readme-top"></a>
 <!-- PROJECT LOGO -->
-<br />
 <div align="center">
   <h3 align="center"> Titanic Survival Prediction</h3>
 <p align="center"> Welcome to the Titanic Classification project repository! This project aims to predict whether a passenger on the Titanic survived or not based on various features such as age, gender, class, and more.</p>
@@ -41,7 +38,7 @@ Key components of this project include:
 <!--Getting Started Section--> 
 ## Getting Started 🚀
 ### Prerequisites
-You must have Python installed on your machine in order to use this project. Python may be downloaded from [this page](https://www.python.org/downloads/) if you don't already have it installed.
+You must have Python installed on your machine in order to use this project.
 
 ### Installation
 
@@ -54,8 +51,11 @@ git clone https://github.com/Al04ni/titanic_shipwreck.git
 ```
 cd titanic_shipwreck
 ```
-
-3. Explore the notebooks in the repository using a Jupyter Notebook or JupyterLab environment. You can launch the environment by running the following command:
+3. Activate the virtual environment
+```
+python .venv\Scripts\activate
+```
+4. Explore the notebooks in the repository using a Jupyter Notebook or JupyterLab environment. You can launch the environment by running the following command:
 ```
 jupyter notebook
 ```
@@ -66,15 +66,11 @@ jupyter lab
 
 <!--Usage-->
 ## Usage 📋
-1. Run the Streamlit application with the given command:
+Run the Streamlit application with the given command:
 ```
 streamlit run app.py
 ```
-
-2. Access the application in your web browser.
-
-
-<p align="right">(<a href="#readme-top">Back to the Top</a>)</p>
+Now you can enjoy the app right in your web browser.
 
 ### Thanks! 😉
 <hr/>
